@@ -1,5 +1,4 @@
 package com.coletorv2.colertorv3.Database;
-
 import android.content.ContentValues;
 import android.content.Context;
 import android.content.res.Resources;
@@ -7,14 +6,10 @@ import android.content.res.XmlResourceParser;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
 import android.util.Log;
-
-
 import com.coletorv2.colertorv3.Dominio.Entidades.Contato;
 import com.coletorv2.colertorv3.R;
-
 import org.xmlpull.v1.XmlPullParser;
 import org.xmlpull.v1.XmlPullParserException;
-
 import java.io.IOException;
 
 /**
